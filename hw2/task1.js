@@ -7,5 +7,5 @@ if (userNumber >= 1 && userNumber <= 10) {
         console.log(i);
     }
 } else {
-    console.log('Введено не корректное значение!');
+    console.log('Введено некорректное значение!');
 }
